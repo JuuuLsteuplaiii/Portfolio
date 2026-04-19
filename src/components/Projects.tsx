@@ -12,7 +12,7 @@ const projectsData = {
   FR: [
     {
       title: "Plateforme du ministère",
-      description: "Plateforme pour gérer les demandes de congés et permissions de tout les personnels du Ministere de la jeunesse et des sports",
+      description: "Plateforme pour gérer les demandes de congés et permissions de tout les personnels du Ministere de la jeunesse et des sports de Madagascar",
       tech: ["ReactJS", "Laravel", "MySQL"],
       image: "captureRH.png"
     },
@@ -44,7 +44,7 @@ const projectsData = {
   EN: [
     {
       title: "Ministry Platform",
-      description: "Platform to manage leave and permission requests for all staff of the Ministry of Youth and Sports",
+      description: "Platform to manage leave and permission requests for all staff of the Ministry of Youth and Sports Madagascar",
       tech: ["ReactJS", "Laravel", "MySQL"],
       image: "captureRH.png"
     },
