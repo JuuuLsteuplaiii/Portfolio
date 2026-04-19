@@ -223,7 +223,7 @@ export default function Hero({ scrollY, onNavigate, theme, lang }: HeroProps) {
 
             <div className="flex gap-4 md:gap-6 pt-4">
               <a
-                href="https://github.com/JonnySins2"
+                href="https://github.com/JuuuLsteuplaiii"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-2 md:p-3 rounded-full transition-all hover:scale-110 ${
